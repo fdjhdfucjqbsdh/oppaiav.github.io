@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avoppai.github.io/sitemap.xml
+Sitemap: https://avoppai.github.io/index.xml
